@@ -9,10 +9,17 @@ totolink-a2004ns-playground
 - [[OpenWrt Wiki] TOTOLINK](https://openwrt.org/toh/hwdata/totolink/start)
 
 ### ICs
-- rtl8812ar
-- RTL8192ER
-- [RTL8367RB-VB-CG](https://www.realtek.com/Product/Index?id=3698)
-  - Ethernet switch
+- [RTL8192ER](https://www.realtek.com/Product/Index?id=604&cate_id=194)
+  - > Wireless LAN (WLAN) and a network PCIe controller
+- RTL8367RB
+  - [RTL8367RB-VB-CG](https://www.realtek.com/Product/Index?id=3698)
+    - Ethernet switch
+- RTL8197DN
+  - the CPU
+- [RTL8812AR](https://www.realtek.com/Product/Index?id=578&cate_id=194)
+  - > 802.11ac/abgn PCIe WLAN Network Controller
+- [Nanya NT5TU64M16HG-AC](https://www.nanya.com/en/Product/3779/NT5TU64M16HG-AC)
+  - DDR2 1Gb SDRAM
 
 ### Projects
 - [frederic/rtl819x-toolchain: rtl819x-toolchain-v3.2.3 - Linux SDK for ALFA AIP-W512](https://github.com/frederic/rtl819x-toolchain/)
@@ -30,4 +37,5 @@ totolink-a2004ns-playground
 - [Backup Firmware Router TOTOLINK A2004NS V4.0 04281B REALTEK RTL8197DN RTL8367RB RTL8192ER RTL8812AR - YouTube](https://www.youtube.com/shorts/1UWfkjUJ8zw)
 - [Rooting My Router [Part 1] - Dumping Firmware Through UART - YouTube](https://www.youtube.com/watch?v=NF28QHlAxTM)
 - [ACER Aspire 3 A314-32 Series A314-32-C52Q N17Q4 DA0Z8GMB8F0 REV.F Pare Pare - YouTube](https://www.youtube.com/watch?v=rpQOrKvyKlg)
+
 
