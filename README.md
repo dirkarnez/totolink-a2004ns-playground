@@ -5,6 +5,13 @@ totolink-a2004ns-playground
 - ![](./images/serial-port.jpg)
 - ![](./images/teraterm.jpg)
 
+### USART
+0. power on
+1. find the GND (by vs Ground plane / USB plug metal case)
+2. VCC (by vs GND)
+3. RX should ~GND
+4. TX should ~VCC
+
 ### OpenWrt
 - [[OpenWrt Wiki] TOTOLINK](https://openwrt.org/toh/hwdata/totolink/start)
 
