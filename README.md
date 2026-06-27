@@ -12,6 +12,9 @@ totolink-a2004ns-playground
 3. RX should ~GND
 4. TX should ~VCC
 
+### TODO
+- [ ] as a repeater
+
 ### OpenWrt
 - [[OpenWrt Wiki] TOTOLINK](https://openwrt.org/toh/hwdata/totolink/start)
 
